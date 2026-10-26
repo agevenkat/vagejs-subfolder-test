@@ -12,6 +12,6 @@
     "preview": "vage preview"
   },
   "devDependencies": {
-    "vagejs": "file:vagejs-0.8.0.tgz"
+    "vagejs": "^0.9.0"
   }
 }
